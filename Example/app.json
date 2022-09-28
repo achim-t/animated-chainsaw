@@ -1,0 +1,41 @@
+﻿{
+    "id":  "8df0abd9-efa6-45b4-8d18-bc270832b897",
+    "name":  "Example",
+    "publisher":  "Default Publisher",
+    "version":  "19.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "platform":  "19.0.0.0",
+    "application":  "19.0.0.0",
+    "runtime":  "8.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  5266004,
+                         "to":  5266050
+                     }
+                 ],
+    "features":  [
+                     "TranslationFile"
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}

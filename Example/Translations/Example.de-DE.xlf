@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Example.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 408562909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Clawback</source>
+          <target>Provisionsrückforderung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3474707911" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission amount</source>
+          <target>Provision</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provision"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType CommissionAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2423180261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission rate</source>
+          <target>Provisionssatz</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionssatz"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType CommissionRateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 136896800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission clawback:</source>
+          <target>Provisionsrückforderung:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionsrückforderung:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType CommissionStatementCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 978892172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission amount brought forward</source>
+          <target>Übertrag Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Übertrag Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType Commission_amount_brought_forwardCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 555287291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2">DEU="KOPIE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType CopyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 35837468" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date:</source>
+          <target>Datum:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Datum:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType DateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 709093620" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debt. settled</source>
+          <target>Ausgeglichen am</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Ausgeglichen am"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType DebtSettledCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail:</source>
+          <target>E-Mail:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="E-Mail:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 310676788" size-unit="char" translate="yes" xml:space="preserve">
+          <source> half-year</source>
+          <target> Halbjahr</target>
+          <note from="Developer" annotates="general" priority="2">DEU="" Halbjahr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType HalfYearCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1792006209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopfdimensionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Kopfdimensionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType Header_DimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2172675811" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Betrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType InvoiceAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3922846517" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description/Document No.</source>
+          <target>Bezeichnung/Beleg-Nr.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Bezeichnung/Beleg-Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType InvoiceNoOrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3849971554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Zeilendimensionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Zeilendimensionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType Line_DimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 4189037631" size-unit="char" translate="yes" xml:space="preserve">
+          <source>of</source>
+          <target>von</target>
+          <note from="Developer" annotates="general" priority="2">DEU="von"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType OfCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1029610723" size-unit="char" translate="yes" xml:space="preserve">
+          <source>nd</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType OrdinalNdTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2017899479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>rd</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType OrdinalRdTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1748656608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>st</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType OrdinalStTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1422017249" size-unit="char" translate="yes" xml:space="preserve">
+          <source>th</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType OrdinalThTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Seite</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Seite"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 289083479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1/Page follows</source>
+          <target>Seite %1/Seite folgt</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Seite %1/Seite folgt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType PageFollowsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2937946596" size-unit="char" translate="yes" xml:space="preserve">
+          <source> quarter</source>
+          <target> Quartal</target>
+          <note from="Developer" annotates="general" priority="2">DEU="" Quartal</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType QuarterCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2634562050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>for the deliveries of the accounting period %1 you will receive your contractual commission.</source>
+          <target>für den Abrechnungszeitraum %1 erhalten Sie vertragsgemäß Ihre Provision.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="für den Abrechnungszeitraum %1 erhalten Sie vertragsgemäß Ihre Provision."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType ReceiveCommissionTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 339104854" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dear Sir or Madam,</source>
+          <target>Sehr geehrte Damen und Herren,</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Sehr geehrte Damen und Herren,"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType SalutationTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3470693623" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal commission amout</source>
+          <target>Zwischensumme Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Zwischensumme Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType Subtotal_commission_amoutCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1339022928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax no.: %1</source>
+          <target>Steuer-Nr.: %1</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Steuer-Nr.: %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType TaxNoTemplateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3129632772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telephone:</source>
+          <target>Telefon:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Telefon:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType TelephoneCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1584998606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total amount</source>
+          <target>Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType TotalAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3284148265" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Excl. VAT</source>
+          <target>Gesamtbetrag ohne MwSt.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Total ohne MwSt."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType TotalExclVatCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3051254367" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Incl. VAT</source>
+          <target>Gesamtbetrag inkl. MwSt.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Total inkl. MwSt."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType TotalInclVatCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3913295325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>MwSt.-Betrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Betrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType VATAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1551035531" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <target>MwSt.-Klausel</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Klausel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType VATClausesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>MwSt.-Kennzeichen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Kennzeichen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3458992718" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT no.: %1</source>
+          <target>USt.-IdNr.: %1</target>
+          <note from="Developer" annotates="general" priority="2">DEU="USt.-IdNr.: %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType VATNoTemplateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1737749975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creditor ID:</source>
+          <target>Kreditoren-Nr.:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Kreditoren-Nr.:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType VendorIdCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 1823382287" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your contact:</source>
+          <target>Sachbearbeiter:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Sachbearbeiter:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType YourContactCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - NamedType 3125178905" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your VAT no.:</source>
+          <target>Ihre USt.-IdNr.:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Ihre USt.-IdNr.:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - NamedType YourVatNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - ReportDataItem 2271228953 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Cr.Memos</source>
+          <target>Geb. Einkaufsgutschrift</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - ReportDataItem Purch. Cr. Memo Hdr. - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Optionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 438427973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Hide Company Information field</source>
+          <target>Gibt den Wert des Feldes "Firmendaten ausblenden" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Firmendaten ausblenden"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Hide Company Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 438427973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide Company Information</source>
+          <target>Firmendaten ausblenden</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Firmendaten ausblenden"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Hide Company Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 109699213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Internal Information field</source>
+          <target>Gibt den Wert des Feldes "Interne Information" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Interne Informationen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Internal Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 109699213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Information</source>
+          <target>Interne Informationen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Interne Informationen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Internal Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 3791875410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Log Interaction field</source>
+          <target>Gibt den Wert des Feldes "Aktivität protokollieren" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Aktivität protokollieren"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Log Interaction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 3791875410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Aktivität protokollieren</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Aktivität protokollieren"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control Log Interaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 4198158427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of Copies field</source>
+          <target>Gibt den Wert des Feldes Anzahl der Kopien an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Anzahl Kopien"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control NumberOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 408562909 - Control 4198158427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Copies</source>
+          <target>Anzahl der Kopien</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Anzahl Kopien"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Cr.Memo - Control NumberOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Statement</source>
+          <target>Provisionsabrechnung</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionsabrechnung"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3474707911" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission amount</source>
+          <target>Provision</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provision"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType CommissionAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2423180261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission rate</source>
+          <target>Provisionssatz</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionssatz"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType CommissionRateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 136896800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission statement:</source>
+          <target>Provisionsabrechnung:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionsabrechnung:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType CommissionStatementCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 978892172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission amount brought forward</source>
+          <target>Übertrag Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Übertrag Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType Commission_amount_brought_forwardCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 555287291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2">DEU="KOPIE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType CopyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 35837468" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date:</source>
+          <target>Datum:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Datum:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType DateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 709093620" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debt. settled</source>
+          <target>Ausgeglichen am</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Ausgeglichen am"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType DebtSettledCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail:</source>
+          <target>E-Mail:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="E-Mail:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 310676788" size-unit="char" translate="yes" xml:space="preserve">
+          <source> half-year</source>
+          <target> Halbjahr</target>
+          <note from="Developer" annotates="general" priority="2">DEU="" Halbjahr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType HalfYearCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1792006209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopfdimensionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Kopfdimensionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType Header_DimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2172675811" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Betrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType InvoiceAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3922846517" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description/Document No.</source>
+          <target>Bezeichnung/Beleg-Nr.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Bezeichnung/Beleg-Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType InvoiceNoOrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3849971554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Zeilendimensionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Zeilendimensionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType Line_DimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 4189037631" size-unit="char" translate="yes" xml:space="preserve">
+          <source>of</source>
+          <target>von</target>
+          <note from="Developer" annotates="general" priority="2">DEU="von"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType OfCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1029610723" size-unit="char" translate="yes" xml:space="preserve">
+          <source>nd</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType OrdinalNdTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2017899479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>rd</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType OrdinalRdTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1748656608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>st</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType OrdinalStTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1422017249" size-unit="char" translate="yes" xml:space="preserve">
+          <source>th</source>
+          <target>.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType OrdinalThTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Seite</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Seite"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 289083479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1/Page follows</source>
+          <target>Seite %1/Seite folgt</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Seite %1/Seite folgt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType PageFollowsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2937946596" size-unit="char" translate="yes" xml:space="preserve">
+          <source> quarter</source>
+          <target> Quartal</target>
+          <note from="Developer" annotates="general" priority="2">DEU="" Quartal</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType QuarterCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2634562050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>for the deliveries of the accounting period %1 you will receive your contractual commission.</source>
+          <target>für den Abrechnungszeitraum %1 erhalten Sie vertragsgemäß Ihre Provision.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="für den Abrechnungszeitraum %1 erhalten Sie vertragsgemäß Ihre Provision."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType ReceiveCommissionTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 339104854" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dear Sir or Madam,</source>
+          <target>Sehr geehrte Damen und Herren,</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Sehr geehrte Damen und Herren,"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType SalutationTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3470693623" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal commission amout</source>
+          <target>Zwischensumme Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Zwischensumme Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType Subtotal_commission_amoutCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1339022928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax no.: %1</source>
+          <target>Steuer-Nr.: %1</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Steuer-Nr.: %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType TaxNoTemplateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3129632772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telephone:</source>
+          <target>Telefon:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Telefon:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType TelephoneCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1584998606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total amount</source>
+          <target>Provisionsbetrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Provisionsbetrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType TotalAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3284148265" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Excl. VAT</source>
+          <target>Gesamtbetrag ohne MwSt.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Total ohne MwSt."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType TotalExclVatCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3051254367" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Incl. VAT</source>
+          <target>Gesamtbetrag inkl. MwSt.</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Total inkl. MwSt."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType TotalInclVatCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3913295325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>MwSt.-Betrag</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Betrag"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType VATAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1551035531" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <target>MwSt.-Klausel</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Klausel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType VATClausesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>MwSt.-Kennzeichen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="MwSt.-Kennzeichen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3458992718" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT no.: %1</source>
+          <target>USt.-IdNr.: %1</target>
+          <note from="Developer" annotates="general" priority="2">DEU="USt.-IdNr.: %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType VATNoTemplateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1737749975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creditor ID:</source>
+          <target>Kreditoren-Nr.:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Kreditoren-Nr.:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType VendorIdCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 1823382287" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your contact:</source>
+          <target>Sachbearbeiter:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Sachbearbeiter:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType YourContactCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - NamedType 3125178905" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your VAT no.:</source>
+          <target>Ihre USt.-IdNr.:</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Ihre USt.-IdNr.:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - NamedType YourVatNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - ReportDataItem 1592379974 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoice</source>
+          <target>Geb. Einkaufsrechnung</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Geb. Einkaufsrechnung"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - ReportDataItem Purch. Inv. Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Optionen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 438427973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Hide Company Information field</source>
+          <target>Gibt den Wert des Feldes "Firmendaten ausblenden" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Firmendaten ausblenden"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Hide Company Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 438427973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide Company Information</source>
+          <target>Firmendaten ausblenden</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Firmendaten ausblenden"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Hide Company Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 109699213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Internal Information field</source>
+          <target>Gibt den Wert des Feldes "Interne Information" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Interne Informationen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Internal Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 109699213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Information</source>
+          <target>Interne Informationen</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Interne Informationen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Internal Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 3791875410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Log Interaction field</source>
+          <target>Gibt den Wert des Feldes "Aktivität protokollieren" an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Aktivität protokollieren"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Log Interaction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 3791875410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Aktivität protokollieren</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Aktivität protokollieren"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control Log Interaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 4198158427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of Copies field</source>
+          <target>Gibt den Wert des Feldes Anzahl der Kopien an</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Anzahl Kopien"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control NumberOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1441668217 - Control 4198158427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Copies</source>
+          <target>Anzahl der Kopien</target>
+          <note from="Developer" annotates="general" priority="2">DEU="Anzahl Kopien"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report lbt com Statement Invoice - Control NumberOfCopies - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
